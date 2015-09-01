@@ -1,0 +1,9 @@
+{
+  "name": "nodebb-reset-reputation",
+  "version": "0.0.1",
+  "dependencies": {
+    "async": "~1.4.2",
+    "winston": "~1.0.1",
+    "mongodb": "~2.0.42"
+  }
+}
